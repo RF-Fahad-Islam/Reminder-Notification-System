@@ -57,6 +57,6 @@ Please make sure to update tests as appropriate.
 | Plyer   	| 1.4.3  	|
 
 ## License
-**This is created by Fahad*
+**This is created by Fahad**
 ## Thanks for visiting
 ### Please help me to improve the notification system.
