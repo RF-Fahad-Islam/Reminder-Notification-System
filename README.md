@@ -1,5 +1,5 @@
 # Reminder Notification System
-This is a simple reminder python program that shows you a particular notification base on your given *text and title after your desired time (minutes).'
+This is a simple reminder python program that shows you a particular notification base on your given *text and title* after your desired time (minutes).'
 
 **NOTE : You can write to the CSV file (remind-data.csv)  by using MS Excel. But Don't change the title of the CSV File ``` Title, Message, Time```**
 
